@@ -1,4 +1,4 @@
-# Hello Word, i'm Duda! 👋
+# Hello World, i'm Duda! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIPAR  
 🔐 Interessada em Cibersegurança e Desenvolvimento Web  
